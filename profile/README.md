@@ -6,7 +6,7 @@ Transform your startup vision into reality with **custom software** and **Fracti
 
 Fraqtory is redefining how businesses approach **on-demand, distributed, and scalable manufacturing**. We provide cutting-edge **software solutions** and **strategic technology leadership** to help companies innovate and scale.  
 
-🔹 **Fractional CTO**: Expert technology leadership to drive your startup’s success. [fraqtory.com](https://fraqtory.com/)  
+🔹 **Fractional CTO**: Expert technology leadership to drive your startup’s success.
 
 🔹 **Software Development**: Custom-built solutions with expertise in:  
    - **Computer Vision**: AI-powered image/video recognition & automation.
@@ -16,9 +16,9 @@ Fraqtory is redefining how businesses approach **on-demand, distributed, and sca
 ## Connect with Us 🌍  
 
 - [🌐 Website](https://fraqtory.com/)  
-- [📧 Contact](mailto:contact@fraqtory.com)  
+- [📧 Email](mailto:contact@fraqtory.com)  
 - [📱 LinkedIn](https://linkedin.com/company/fraqtory)  
-- [🐦 Twitter](https://twitter.com/fraqtory)  
+- [🐦 X](https://x.com/fraqtory)  
 
 ---  
 
